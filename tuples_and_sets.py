@@ -29,3 +29,17 @@ print(kume2.difference(kume))
 
 print("Sari" in kume.union(kume2))
 
+
+
+bosliste1 = []
+bosliste2 = list()
+
+bosdemet1 = ()
+bosdemet2 = tuple()
+
+boskume1 = set()
+boskume2 = {} #Bu bir sözlüktür.
+print(type(boskume2))
+
+python = set("PYTHON")
+print(python)
